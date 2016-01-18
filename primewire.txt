@@ -1,0 +1,54 @@
+! 18/01/2016, 22:00:02 http://www.primewire.ag/
+www.primewire.ag##.container > .footer > .footer_right
+www.primewire.ag##.container > .footer > .footer_left
+www.primewire.ag##.container > .footer
+www.primewire.ag##.container > .main_body > .clearer
+www.primewire.ag##.container > .main_body > .col2 > iframe:nth-of-type(2)
+www.primewire.ag##.container > .main_body > .col2 > h2:nth-of-type(6)
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(15)
+www.primewire.ag##.container > .main_body > .col2 > .com_class_mov.latest_comments:nth-of-type(14)
+www.primewire.ag##.container > .main_body > .col2 > .com_class_mov.latest_comments:nth-of-type(13)
+www.primewire.ag##.container > .main_body > .col2 > .com_class_tv.latest_comments:nth-of-type(12)
+www.primewire.ag##.container > .main_body > .col2 > .com_class_mov.latest_comments:nth-of-type(11)
+www.primewire.ag##.container > .main_body > .col2 > .com_class_mov.latest_comments:nth-of-type(10)
+www.primewire.ag##.container > .main_body > .col2 > .com_class_tv.latest_comments:nth-of-type(9)
+www.primewire.ag##.container > .main_body > .col2 > .com_class_mov.latest_comments:nth-of-type(8) > p > .latest_comments_poster > a[href="/profile/btzabe"]
+www.primewire.ag##.container > .main_body > .col2 > .com_class_mov.latest_comments:nth-of-type(8) > p > .latest_comments_poster
+www.primewire.ag##.container > .main_body > .col2 > .com_class_mov.latest_comments:nth-of-type(8) > p
+www.primewire.ag##.container > .main_body > .col2 > .com_class_mov.latest_comments:nth-of-type(8) > a[href="/watch-1846285-The-Great-Ghost-Rescue"]
+www.primewire.ag##.container > .main_body > .col2 > .com_class_mov.latest_comments:nth-of-type(8)
+www.primewire.ag##.container > .main_body > .col2 > h2:nth-of-type(5)
+www.primewire.ag###div-insticator-ad-4
+www.primewire.ag###div-insticator-ad-2
+www.primewire.ag###insticator-api-iframe-div
+www.primewire.ag###div-insticator-ad-1
+www.primewire.ag###div-insticator-ad-3
+www.primewire.ag##.container > .main_body > .col2 > h2:nth-of-type(4)
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > strong:nth-of-type(3) > a[href="/tvschedule.php"]
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > strong:nth-of-type(3)
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > hr
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > strong:nth-of-type(2)
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > strong:nth-of-type(1)
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(2)
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2) > .twitter-follow-button[href="https://twitter.com/real_1channel"]
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > iframe
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody > tr:nth-of-type(1)
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table > tbody
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2) > table
+www.primewire.ag##.container > .main_body > .col2 > div:nth-of-type(2)
+www.primewire.ag##.container > .main_body > .col2 > h2:nth-of-type(3)
+www.primewire.ag##.container > .main_body > .col2 > iframe:nth-of-type(1)
+www.primewire.ag##.container > .main_body > .col2 > h2:nth-of-type(2)
+www.primewire.ag##.container > .main_body > .col2 > a[href="/tvschedule.php"] > img[alt="TV Schedule"]
+www.primewire.ag##.container > .main_body > .col2 > a[href="/tvschedule.php"]
+www.primewire.ag##.container > .main_body > .col2 > a[href="/how_to_watch_movies.php"] > img[alt="LetMeWatchThis Guide"]
+www.primewire.ag##.container > .main_body > .col2 > a[href="/how_to_watch_movies.php"]
+www.primewire.ag##.container > .main_body > .col2 > h2:nth-of-type(1)
+www.primewire.ag##.container > .main_body > .col2 > .loginform
+www.primewire.ag##.container > .main_body > .col2
+www.primewire.ag##.container > .main_body > .col1 > .info_message
+www.primewire.ag##.container > .header > .header_link > a[href="//www.primewire.ag"]
+www.primewire.ag##.container > .header > .header_link
