@@ -52,3 +52,102 @@ www.primewire.ag##.container > .main_body > .col2
 www.primewire.ag##.container > .main_body > .col1 > .info_message
 www.primewire.ag##.container > .header > .header_link > a[href="//www.primewire.ag"]
 www.primewire.ag##.container > .header > .header_link
+
+! 18/01/2016, 22:17:43 http://www.primewire.ag/watch-2724925-Last-Day-of-the-Dinosaurs-online-free
+www.primewire.ag###rufous-sandbox
+www.primewire.ag###aff_loader_gif
+www.primewire.ag###aff_box_iframe
+www.primewire.ag###close_aff_modal
+www.primewire.ag###aff_modal_box > h1
+www.primewire.ag###aff_modal_box
+www.primewire.ag###aff_modal
+www.primewire.ag##.container > .footer > .footer_right
+www.primewire.ag##.container > .footer > .footer_left
+www.primewire.ag##.container > .footer
+www.primewire.ag###show_reviews > .comment_box > .comment_box_info
+www.primewire.ag###show_reviews > .comment_box > .comment_box_avatar
+www.primewire.ag###show_reviews > .comment_box
+www.primewire.ag###show_reviews > a
+www.primewire.ag###show_reviews
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .show_reviews
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .titles:nth-of-type(3)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .info_message
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .sub_titles
+www.primewire.ag##div > #display
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box_alt.comment_box:nth-of-type(44)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(21)
+www.primewire.ag###display831611
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box:nth-of-type(42)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(20)
+www.primewire.ag###display3357537
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box_alt.comment_box:nth-of-type(40)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(19)
+www.primewire.ag###display830217
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box:nth-of-type(38)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(18)
+www.primewire.ag###display830529
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box_alt.comment_box:nth-of-type(36)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(17)
+www.primewire.ag###display835091
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box:nth-of-type(34)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(16)
+www.primewire.ag###display836923
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box_alt.comment_box:nth-of-type(32)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(15)
+www.primewire.ag###display862349
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box:nth-of-type(30)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(14)
+www.primewire.ag###display867337
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box_alt.comment_box:nth-of-type(28)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(13)
+www.primewire.ag###display919735
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box:nth-of-type(26)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(12)
+www.primewire.ag###display3355782
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_hidden.comment_box_alt.comment_box
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(11)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .tolerance_box
+www.primewire.ag###display829485
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box:nth-of-type(21)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(10)
+www.primewire.ag###display1012819
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box_alt.comment_box:nth-of-type(19)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(9)
+www.primewire.ag###display1096571
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box:nth-of-type(17)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(8)
+www.primewire.ag###display1193579
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box_alt.comment_box:nth-of-type(15)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(7)
+www.primewire.ag###display3356112
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a
+www.primewire.ag###display3357930
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box_alt.comment_box
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a
+www.primewire.ag###display3358236
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box:nth-of-type(9)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(4)
+www.primewire.ag###display3355806
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box_alt.comment_box:nth-of-type(7)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(3)
+www.primewire.ag###display830227
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .comment_box:nth-of-type(5)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(2)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .titles:nth-of-type(2)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > a:nth-of-type(1)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > iframe
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .titles:nth-of-type(1)
+www.primewire.ag###first > table:nth-of-type(11) > tbody > tr > td:nth-of-type(7)
+www.primewire.ag###first > .download_link
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .choose_tabs > .titles
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .movie_info > table > tbody > tr:nth-of-type(8)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .movie_info > table > tbody > tr:nth-of-type(7)
+www.primewire.ag##.container > .main_body > .col1 > .index_container > .movie_navigation.stage_navigation
+www.primewire.ag###fb-root
+
+
+www.primewire.ag##.help_link
+www.primewire.ag##.movie_version tbody>tr>td:nth-of-type(5)
+www.primewire.ag##.movie_info_actions
+www.primewire.ag##.movie_info [href^="/external.php"]
